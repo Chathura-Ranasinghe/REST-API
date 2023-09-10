@@ -46,5 +46,7 @@
         - cors : is a middleware for Node.js web applications, specifically designed to handle Cross-Origin Resource Sharing (CORS) in web servers.
 
 21. Create config folder, in /server directory
+
 22. Create 'allowedOrigins.js' file, in /config directory
+
 23. Create 'corsOptions.js' file, in /config directory

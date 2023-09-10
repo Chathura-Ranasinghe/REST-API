@@ -1,7 +1,7 @@
 {
-  "name": "notebook",
+  "name": "rest-api",
   "version": "1.0.0",
-  "description": "NOtebook MERN project",
+  "description": "Sample REST API",
   "main": "server.js",
   "scripts": {
     "start": "node server",
